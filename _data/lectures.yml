@@ -201,7 +201,7 @@
   readings:
     - <span style="color:green"><a style="color:green" href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4</span>
     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
-  logistics: <span class="deadline">HW1 due 09/28 11:59pm</span>
+  logistics: <span class="deadline">HW1 due 03/02 11:59pm</span>
     
 
 
@@ -291,14 +291,14 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-  logistics: <span class="event">HW3 out</span> <br> 
+  logistics: <span class="deadline">HW2 due 03/19 11:59pm </span> <br><span class="event"> HW3 out</span>
 
 
 - date: F 03/19
   lecturer:
   title: >
     <strong> Mid-semester break - No classes </strong>
-  logistics: <span class="deadline">HW2 due 10/16 11:59pm</span>
+  logistics:
 
 
 - date: T 03/23
@@ -377,7 +377,7 @@
   video: 
   notes:
   readings:
-  logistics: <span class="deadline">HW3 due 10/30 11:59PM</span>
+  logistics: <span class="deadline">HW3 due 04/02 11:59PM</span>
 
 
 - date: T 04/06
@@ -415,7 +415,7 @@
   quiz: >
     <strong>Quiz 2 (online)</strong>
   logistics:
-    <span class="event">HW4 out 11/07</span>
+    <span class="event">HW4 out</span>
 
 
 - date: T 04/13
@@ -518,8 +518,8 @@
     - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
     - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
   logistics:
-    <span class="event">HW5 out 11/23</span>
-    <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
+    <span class="event">HW5 out</span>
+    <span class="deadline">HW4 due 04/27 11:59pm</span> <br>
 
 
   # lecturer:
@@ -592,7 +592,7 @@
     - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics: 
-    <span class="deadline">HW5 due 12/07 11:59pm</span> <br>
+    
 
 
 - date: Th 05/06
@@ -620,6 +620,7 @@
   notes:
   readings:
   logistics: 
+    <span class="deadline">HW5 due 05/07 11:59pm</span> <br>
 
 
 - date: TBD
