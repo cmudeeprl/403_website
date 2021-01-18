@@ -37,8 +37,8 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** 
-- **Recitations:** Tuesday, Thursday 10:40 AM - 12:00 noon
+- **Lectures:** Tuesday, Thursday 10:40 AM - 12:00 noon
+- **Recitations:** Friday 
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
