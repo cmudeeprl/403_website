@@ -2,34 +2,40 @@ Instructors:
     - name: Katerina Fragkiadaki
       email: katef@cs.cmu.edu
       url: https://www.cs.cmu.edu/~katef/
-      office-hours: 
+      office-hours: Tuesday, Thursday 12:00 noon - 12:30 PM
       image: staff/katef.jpeg
 
 EducationAssociates:
     - name: Brynn Edmunds
       email: bedmunds@andrew.cmu.edu
       url: 
-      office-hours: 
+      office-hours: TBD
       image: staff/bedmunds.jpg
 
 TAs:
-    - name: 
-      email:
-      url: 
-      office-hours:
-      image:
+    - name: Conor Igoe
+      email: cigoe@andrew.cmu.edu
+      url: https://www.linkedin.com/in/conor-igoe-318b49128/
+      office-hours: TBD
+      image: staff/cigoe.jpg
 
-    - name: 
-      email:
-      url: 
-      office-hours:
-      image:
+    - name: Yuning Wu
+      email: yuningw@andrew.cmu.edu
+      url: https://www.linkedin.com/in/yuning-wu/
+      office-hours: TBD
+      image: staff/yuningw.jpg
 
-    - name: 
-      email:
+    - name: Alvin Pan
+      email: qpan@andrew.cmu.edu
+      url: https://www.linkedin.com/in/alvin-pan-75b8b9146/
+      office-hours: TBD
+      image: staff/qpan.jpg
+
+    - name: Ram Iyer
+      email: rki@andrew.cmu.edu
       url: 
-      office-hours:
-      image:
+      office-hours: TBD
+      image: staff/generic.jpeg
 
 
       
