@@ -29,8 +29,8 @@ Students should have a solid understanding of the following areas
 - Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?
 
 **Prerequisites:**
-- Prerequisites: 10601 or 10701 or 10715
-- Minimum Grades: B in 10601, B in 10701, B in 10715
+- Prerequisites: 10601 introduction to machine learning
+- Minimum Grades: B in 10601
 - Corequisites: None
 - Anti-requisites: None
 - Anti-req Prohibits: None
