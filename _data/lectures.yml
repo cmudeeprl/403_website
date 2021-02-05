@@ -31,11 +31,12 @@
   lecturer:
   title:
   recitation: >
-    <strong>CNNs, RNNs, Tensorflow</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/lec_3.pdf
+    <strong>Neural Nets, Tensorflow & Keras </strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s20_rec2_TF.pdf
   # slides2:
   # video:
-  notes:
+  # notes: 
+  colab: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
     - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1IzxXcE__3iUtpS4yOg1lKR2ppNDZ5ix7?usp=sharing" target=  "_blank">notebook</a>
