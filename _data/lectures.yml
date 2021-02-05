@@ -31,12 +31,13 @@
   lecturer:
   title:
   recitation: >
-    <strong>Neural Nets, TensorFlow & Keras </strong>
+    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym </strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s20_rec2_TF.pdf
-  # slides2:
+  slides2: https://10-403spring2020.slack.com/files/U01KQFBE4DC/F01MKJBSP5X/introduction_to_openai_gym__05-feb-21_
   # video:
   # notes: 
   notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
+  notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
     - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1IzxXcE__3iUtpS4yOg1lKR2ppNDZ5ix7?usp=sharing" target=  "_blank">notebook</a>

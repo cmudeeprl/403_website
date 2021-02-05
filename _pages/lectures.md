@@ -68,6 +68,9 @@ title: Schedule
             {% if lecture.notes %}
             | <a href="{{ lecture.notes }}" target="_blank">notes</a>
             {% endif %}
+            {% if lecture.notes2 %}
+              | <a href="{{ lecture.notes2 }}" target="_blank">notes 2</a>
+            {% endif %}
         ]
     </td>
     <td>
