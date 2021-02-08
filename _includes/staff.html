@@ -29,9 +29,10 @@
     <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
     {% endif %}
     <ul class="instructor-info">
-      <li><span>TA</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+      <li><span>TA</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a>, <a href="{{ instructor.zoom }}" target="_blank">Zoom Link</a></li></li>
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
+      <!-- <li><span>Zoom:</span> <a href="{{ instructor.zoom }}" target="_blank">Link</a></li> -->
     </ul>
   </div>
   {% endfor %}
