@@ -109,7 +109,7 @@
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
     - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1, 2.1-2.3
     - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
-  logistics: <span class="event">HW1 out</span> <br>
+  logistics: 
 
 - date: T 02/16
   lecturer:
@@ -144,7 +144,7 @@
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
     - Background Material - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20, Section 20.10.4   
     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
-  logistics:
+  logistics: <span class="event">HW1 out</span> <br>
 
 - date: F 02/19
   lecturer:
