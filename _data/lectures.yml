@@ -50,7 +50,7 @@
   title: >
      <strong>Evolutionary methods for policy search (cont.)</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/evolutionarymethods_S21_2.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af27186-f50a-4223-85b5-acca012c1d48
   notes:
   readings:
     - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
