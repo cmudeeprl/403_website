@@ -34,7 +34,7 @@
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym </strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s20_rec2_TF.pdf
   slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/rec2_gym.pdf
-  # video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58ef5a6a-dfaf-4978-b0a4-acc60140d49c
   # notes: 
   notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
@@ -49,7 +49,7 @@
   lecturer:
   title: >
      <strong>Evolutionary methods for policy search (cont.)</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/X.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/evolutionarymethods_S21.pdf
   video:
   notes:
   readings:
