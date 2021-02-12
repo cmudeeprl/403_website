@@ -183,9 +183,9 @@
   slides: https://docs.google.com/presentation/d/1s6-Vvq8YEPmv7_sCovW0ityxQe2AZnnOZGF3lfsfD-w/edit?usp=sharing
   video:
   notes:
-  readings: <span class="deadline">HW1 due 03/02 11:59pm</span>
+  readings: 
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
+  logistics: <span class="deadline">HW1 due 03/02 11:59pm</span>
 
 - date: T 03/02
   lecturer:
