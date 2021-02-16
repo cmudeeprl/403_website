@@ -101,7 +101,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/lec_5.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5_GP_bayesian_optimization.pdf
   # slides2:
   video:
   notes:
