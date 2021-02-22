@@ -165,8 +165,8 @@
   title:
   recitation: >
     <strong>HW1</strong>
-  slides:
-  video:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec3_hw1.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf27c4db-c7d0-4b4f-b83a-acd401251580
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
