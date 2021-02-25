@@ -35,7 +35,7 @@
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_tf.pdf
   slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58ef5a6a-dfaf-4978-b0a4-acc60140d49c
-  # notes: 
+  # notes:
   # notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
   readings:
@@ -48,7 +48,7 @@
 - date: T 02/09
   lecturer:
   title: >
-     <strong>Evolutionary methods for policy search (cont.)</strong>
+    <strong>Evolutionary methods for policy search (cont.)</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec3_evolutionary_methods_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af27186-f50a-4223-85b5-acca012c1d48
   notes:
@@ -62,7 +62,7 @@
 - date: Th 02/11
   lecturer:
   title: >
-     <strong>Exploration-exploitation in multi-armed bandits</strong>
+    <strong>Exploration-exploitation in multi-armed bandits</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec4_bandits_explore.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4cf87ee-6cc8-4550-9b6d-accc011e757b
   notes:
@@ -109,7 +109,7 @@
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
     - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1, 2.1-2.3
     - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
-  logistics: 
+  logistics:
 
 # - date: T 02/16
 #   lecturer:
@@ -144,7 +144,7 @@
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch4 Section 2.1-2.8
     - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Chapter 1, 2.1-2.3
     - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
-  logistics: 
+  logistics:
 
 # - date: Th 02/18
 #   lecturer:
@@ -156,9 +156,9 @@
 #   readings:
 #     - Ho et al. <a href="https://cs.stanford.edu/~ermon/papers/imitation_nips2016_main.pdf" target="_blank">Generative Adversarial Imitation Learning</a>
 #     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned imitation learning</a>
-#     - Background Material - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20, Section 20.10.4   
+#     - Background Material - <a href="https://www.deeplearningbook.org/" target="blank"> G, B & C Textbook</a> Ch20, Section 20.10.4
 #     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
-#   logistics: 
+#   logistics:
 
 - date: F 02/19
   lecturer:
@@ -197,7 +197,6 @@
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)&#58; Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
-
 # - date: Th 02/25
 #   lecturer:
 #   title: >
@@ -214,11 +213,11 @@
   lecturer:
   title:
   recitation: >
-    <strong>REC: Behavior Cloning and Quiz 1 Review</strong>
-  slides: https://docs.google.com/presentation/d/1s6-Vvq8YEPmv7_sCovW0ityxQe2AZnnOZGF3lfsfD-w/edit?usp=sharing
+    <strong>REC: Basic Intro to MDP</strong>
+  slides:
   video:
   notes:
-  readings: 
+  readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics: <span class="deadline">HW1 due 03/02 11:59pm</span>
 
@@ -231,7 +230,7 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
-  logistics: 
+  logistics:
 
 - date: Th 03/04
   lecturer:
@@ -252,7 +251,7 @@
 - date: T 03/09
   lecturer:
   title: >
-    <strong> What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
+    <strong>What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
   slides:
   video:
   notes:
@@ -349,10 +348,21 @@
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
   logistics:
 
+# - date: F 03/26
+#   lecturer:
+#   title: >
+#     <strong>Mid Semester Break - No classes</strong>
+
 - date: F 03/26
   lecturer:
-  title: >
-    <strong>Mid Semester Break - No classes</strong>
+  title:
+  recitation: >
+    <strong>REC: TBD</strong>
+  slides:
+  notes:
+  readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
 
 - date: T 03/30
   lecturer:
@@ -561,16 +571,16 @@
     # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
   logistics:
 
-- date: F 12/04
-  lecturer:
-  title:
-  recitation: >
-    <strong>REC </strong>
-  slides:
-  # video:
-  notes:
-  readings:
-  logistics:
+# - date: F 05/04
+#   lecturer:
+#   title:
+#   recitation: >
+#     <strong>REC </strong>
+#   slides:
+#   # video:
+#   notes:
+#   readings:
+#   logistics:
 
 - date: T 05/04
   lecturer:
