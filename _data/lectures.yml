@@ -181,7 +181,7 @@
   lecturer:
   title: >
     <strong>Imitation learning with behavior cloning</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec6_immitation_learning.pdf
   video:
   notes:
   readings:
