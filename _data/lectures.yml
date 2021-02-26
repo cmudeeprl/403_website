@@ -244,8 +244,13 @@
 
 - date: F 03/05
   lectuerer:
-  quiz: >
-    <strong> Quiz 1 (online)</strong>
+  title:
+  recitation: >
+    <strong>A comparitive summary: MC vs. DP vs. TD</strong>
+  slides:
+  video:
+  notes:
+  readings:
   logistics: <span class="event">HW2 out</span>
 
 - date: T 03/09
@@ -278,16 +283,18 @@
 
 - date: F 03/12
   lecturer:
-  title:
-  recitation: >
-    <strong>Policy and Value Iterations</strong>
-  slides:
-  # slides2:
-  video:
-  notes:
-  readings:
+  # title:
+  # recitation: >
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 1 (online)</strong>
+  # slides:
+  # # slides2:
+  # video:
+  # notes:
+  # readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
+  logistics: 
 
 - date: T 03/16
   lecturer:
@@ -312,18 +319,18 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-  logistics: 
+  logistics: <span class="deadline">HW2 due 03/18 11:59pm </span> <br><span class="event"> HW3 out</span>
 
 - date: F 03/19
   lecturer:
   title: >
     <strong> Mid-semester break - No classes </strong>
-  logistics: <span class="deadline">HW2 due 03/19 11:59pm </span> <br><span class="event"> HW3 out</span>
+  logistics: 
 
 - date: T 03/23
   lecturer:
   title: >
-    <strong> Actor-Critic methods (cont.), Deterministic PG, Re-parametrized PG</strong>
+    <strong>Actor-Critic methods (cont.), Deterministic PG, Re-parametrized PG</strong>
   slides:
   slides2:
   video:
@@ -357,7 +364,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>REC: TBD</strong>
+    <strong>TBD</strong>
   slides:
   notes:
   readings:
@@ -397,8 +404,9 @@
   lecturer:
   title:
   recitation: >
-    <strong>REC </strong>
-  slides: https://onedrive.live.com/view.aspx?resid=601D311D0FC404D4!55265&ithint=file%2cpptx&authkey=!ADwylcF15XEfygA
+    <strong>TBD</strong>
+  # slides: https://onedrive.live.com/view.aspx?resid=601D311D0FC404D4!55265&ithint=file%2cpptx&authkey=!ADwylcF15XEfygA
+  slides:
   video:
   notes:
   readings:
@@ -612,18 +620,18 @@
     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-  logistics:
+  logistics: <span class="deadline">HW5 due 05/06 11:59pm</span> <br>
 
 - date: F 05/07
   lecturer:
   title:
   recitation: >
-    <strong>Quiz 3 Review </strong>
+    <strong>TBD</strong>
   slides:
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW5 due 05/07 11:59pm</span> <br>
+  logistics: 
 
 - date: TBD
   lecturer:
