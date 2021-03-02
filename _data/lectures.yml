@@ -225,7 +225,7 @@
   lecturer:
   title: >
     <strong>Dynamic Programming, Policy Iteration, Value Iteration</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec7_MDP_policyvalueIter.pdf
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
