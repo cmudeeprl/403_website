@@ -214,7 +214,7 @@
   title:
   recitation: >
     <strong>REC: Review of MDP, Value Functions, Bellman Equation</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec4_MDP.pptx
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98cb23e1-551a-4d90-9ab5-acdb012c90b8
   notes:
   readings:
