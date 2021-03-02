@@ -240,7 +240,7 @@
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics:
+  logistics: <span class="event">HW2 out</span>
 
 - date: F 03/05
   lectuerer:
@@ -251,7 +251,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="event">HW2 out</span>
+  logistics: 
 
 - date: T 03/09
   lecturer:
