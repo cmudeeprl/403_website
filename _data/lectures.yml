@@ -237,7 +237,7 @@
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec8_MC_TD.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9978b80c-c003-4428-b64c-ace101196726
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
   logistics: <span class="event">HW2 out</span>
