@@ -236,7 +236,7 @@
   lecturer:
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec8_MC_TD.pdf
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -257,7 +257,7 @@
   lecturer:
   title: >
     <strong>What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
-  slides:
+  slides: 
   video:
   notes:
   readings:
