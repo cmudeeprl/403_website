@@ -247,7 +247,7 @@
   title:
   recitation: >
     <strong>A comparitive summary: MC vs. DP vs. TD</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec5_DP&MC&TD.pdf
   video:
   notes:
   readings:
