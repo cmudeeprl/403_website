@@ -101,7 +101,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5_GP_bayesian_optimization.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e963ef3b-2bd6-427b-b894-acd1011d660c
   notes:
@@ -136,7 +136,7 @@
   lecturer:
   title: >
     <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes (cont.)</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5_GP_bayesian_optimization.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
   notes:
@@ -181,7 +181,7 @@
   lecturer:
   title: >
     <strong>Imitation learning with behavior cloning</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec6_immitation_learning.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec7_immitation_learning.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72ffba4b-20e2-46fe-81b5-acda011f0d85
   notes:
   readings:
@@ -225,7 +225,7 @@
   lecturer:
   title: >
     <strong>Dynamic Programming, Policy Iteration, Value Iteration</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec7_MDP_policyvalueIter.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec8_MDP_policyvalueIter.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9303e43e-b0ab-4c36-861c-acdf011fd784
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
@@ -236,7 +236,7 @@
   lecturer:
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec8_MC_TD.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec9&10_MC_TD.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9978b80c-c003-4428-b64c-ace101196726
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -256,6 +256,16 @@
 - date: T 03/09
   lecturer:
   title: >
+    <strong>Monte Carlo Learning and Temporal Difference Learning (cont.)</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec9&10_MC_TD.pdf
+  video: 
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+  logistics: 
+
+- date: Th 03/11
+  lecturer:
+  title: >
     <strong>What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
   slides: 
   video:
@@ -270,16 +280,16 @@
     # - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics:
 
-- date: Th 03/11
-  lecturer:
-  title: >
-    <strong>Monte Carlo Tree search</strong>
-  slides:
-  video:
-  readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
-    - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-  logistics:
+# - date: Th 03/11
+#   lecturer:
+#   title: >
+#     <strong>Monte Carlo Tree search</strong>
+#   slides:
+#   video:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+#     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+#   logistics:
 
 - date: F 03/12
   lecturer:
