@@ -224,7 +224,7 @@
 - date: T 03/02
   lecturer:
   title: >
-    <strong>Dynamic Programming, Policy Iteration, Value Iteration</strong>
+    <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec8_MDP_policyvalueIter.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9303e43e-b0ab-4c36-861c-acdf011fd784
   readings:
