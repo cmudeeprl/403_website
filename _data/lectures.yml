@@ -329,13 +329,13 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-  logistics: <span class="deadline">HW2 due 03/18 11:59pm </span> <br><span class="event"> HW3 out</span>
+  logistics: 
 
 - date: F 03/19
   lecturer:
   title: >
     <strong> Mid-semester break - No classes </strong>
-  logistics: 
+  logistics: <span class="deadline">HW2 due 03/19 11:59pm </span> <br><span class="event"> HW3 out</span>
 
 - date: T 03/23
   lecturer:
