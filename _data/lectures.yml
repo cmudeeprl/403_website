@@ -62,7 +62,7 @@
 - date: Th 02/11
   lecturer:
   title: >
-    <strong>Exploration-exploitation in multi-armed bandits</strong>
+    <strong>Multi-armed bandits</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec4_bandits_explore.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4cf87ee-6cc8-4550-9b6d-accc011e757b
   notes:
@@ -100,7 +100,7 @@
 - date: T 02/16
   lecturer:
   title: >
-    <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes</strong>
+    <strong>Bayesian Optimization with Gaussian Processes</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e963ef3b-2bd6-427b-b894-acd1011d660c
@@ -135,7 +135,7 @@
 - date: Th 02/18
   lecturer:
   title: >
-    <strong>Exploration-exploitation in experiment design, Bayesian optimization with Gaussian Processes (cont.)</strong>
+    <strong>Bayesian Optimization with Gaussian Processes (cont.)</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
@@ -246,7 +246,7 @@
   lectuerer:
   title:
   recitation: >
-    <strong>A comparitive summary: MC vs. DP vs. TD</strong>
+    <strong>A comparative overview of DP vs. MC vs. TD</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec5_DP&MC&TD.pdf
   video:
   notes:
