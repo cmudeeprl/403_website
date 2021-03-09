@@ -630,7 +630,7 @@
     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-  logistics: <span class="deadline">HW5 due 05/06 11:59pm</span> <br>
+  logistics: <span class="deadline">HW5 due 05/06 11:59pm</span> 
 
 - date: F 05/07
   lecturer:
@@ -643,10 +643,10 @@
   readings:
   logistics: 
 
-- date: TBD
+- date: Mo 05/10
   lecturer:
   quiz: >
-    <strong>Quiz 3 </strong>
+    <strong>Quiz 3</strong>
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">8:30AM - 11:30AM</span>
