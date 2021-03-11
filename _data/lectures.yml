@@ -268,8 +268,8 @@
 - date: Th 03/11
   lecturer:
   title: >
-    <strong>What if states are infinite and we do not know or wish to estimate the world model? Deep Q-learning, Deep SARSA</strong>
-  slides: 
+    <strong>Function approximation in prediction and control</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec11_functionapprox.pdf
   video:
   notes:
   readings:
