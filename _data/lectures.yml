@@ -271,7 +271,7 @@
   title: >
     <strong>Function approximation in prediction and control</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec11_functionapprox.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4155e12f-5af2-4fc8-bbc2-ace8011f4c0c
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
