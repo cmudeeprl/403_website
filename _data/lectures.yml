@@ -313,7 +313,7 @@
   lecturer:
   title: >
     <strong>Monte Carlo Tree search</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec12_MCTS.pdf
   video:
   notes:
   readings:
