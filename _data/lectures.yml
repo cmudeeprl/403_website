@@ -344,7 +344,7 @@
 - date: T 03/23
   lecturer:
   title: >
-    <strong>REINFORCE, Actor-Critic methods (cont.), Deterministic PG, Re-parametrized PG</strong>
+    <strong>REINFORCE, Actor-Critic methods (cont.)</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13_PG.pdf
   slides2:
   video:
@@ -358,7 +358,7 @@
 - date: Th 03/25
   lecturer:
   title: >
-    <strong>Natural PG</strong>
+    <strong>Natural PG, Deterministic PG, Re-parametrized PG</strong>
   slides:
   video:
   notes:
