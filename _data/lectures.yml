@@ -346,8 +346,8 @@
   title: >
     <strong>REINFORCE, Actor-Critic methods (cont.)</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13_PG.pdf
-  slides2:
-  video:
+  slides2: 
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
   notes:
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
