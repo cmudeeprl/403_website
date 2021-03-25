@@ -359,7 +359,7 @@
   lecturer:
   title: >
     <strong>Natural PG, Deterministic PG, Re-parametrized PG</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec14_natural_policy_gradients.pdf
   video:
   notes:
   readings:
