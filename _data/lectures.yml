@@ -359,8 +359,9 @@
   lecturer:
   title: >
     <strong>Natural PG, Deterministic PG, Re-parametrized PG</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec14_natural_policy_gradients.pdf
-  video:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13_PG.pdf
+  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec14_natural_policy_gradients.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880315a6-86a3-4d93-9ec7-acf6010c80ce
   notes:
   readings:
     - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
