@@ -390,9 +390,10 @@
 - date: T 03/30
   lecturer:
   title: >
-    <strong>Deterministic PG, Re-parametrized PG</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec16_pairwise_DDPG.pdf
-  video:
+    <strong>Natural PG (cont.), Deterministic PG, Re-parametrized PG</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
+  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec16_pairwise_DDPG.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60e436fd-1b46-4a73-b976-acfb01086915
   notes:
   readings:
     - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
