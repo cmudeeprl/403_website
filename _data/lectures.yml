@@ -405,9 +405,8 @@
 - date: Th 04/01
   lecturer:
   title: >
-    <strong>SAC, TD3, soft q learning</strong>
-  slides:
-  slides2:
+    <strong>MCTS with prior knowledge</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   video:
   notes:
   readings:
