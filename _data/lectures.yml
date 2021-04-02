@@ -421,9 +421,12 @@
   lecturer:
   title:
   recitation: >
-    <strong>TBD</strong>
+    <strong>Quiz 2 Review</strong>
   # slides: https://onedrive.live.com/view.aspx?resid=601D311D0FC404D4!55265&ithint=file%2cpptx&authkey=!ADwylcF15XEfygA
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7_TD_MCTS.pdf
+  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7_reinforce_rwb_a2c.pdf
+  slides3: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7_npg_trpo_ppo.pdf
+  slides4: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7_dqn_mbrl.pdf
   video:
   notes:
   readings:
