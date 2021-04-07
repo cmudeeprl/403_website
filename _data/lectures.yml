@@ -432,9 +432,10 @@
 - date: T 04/06
   lecturer:
   title: >
-    <strong>Model-based RL</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
-  video:
+    <strong>MCTS with prior knowledge (cont.), Model-based RL</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
+  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9dc0add7-7e07-43b0-b675-ad02011afd0e
   notes:
   readings:
     - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
