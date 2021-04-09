@@ -448,7 +448,7 @@
   lecturer:
   title: >
     <strong>Model-based RL (cont.)</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   video:
   notes:
   readings:
@@ -469,7 +469,7 @@
   title: >
     <strong>Model-based RL (cont.)</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73bc4094-b63c-40ce-8447-ad0401086368
   notes:
   readings:
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
