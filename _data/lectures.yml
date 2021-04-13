@@ -447,7 +447,7 @@
 - date: Th 04/08
   lecturer:
   title: >
-    <strong>Model-based RL (cont.)</strong>
+    <strong>Model-based RL II: graph neural networks, iLQR</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73bc4094-b63c-40ce-8447-ad0401086368
   notes:
@@ -471,7 +471,7 @@
 - date: T 04/13
   lecturer:
   title: >
-    <strong>Model-based RL (cont.)</strong>
+    <strong>Model-based RL II: graph neural networks, iLQR (cont.), MBRL with latent dynamic models</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
   slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
   video:
