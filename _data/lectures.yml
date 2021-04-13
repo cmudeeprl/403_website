@@ -472,13 +472,11 @@
   lecturer:
   title: >
     <strong>Model-based RL (cont.)</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
+  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
   video:
   notes:
   readings:
-    - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
     - Qi et al. <a href="https://arxiv.org/pdf/2008.02265.pdf" target="_blank">Learning Long-term Visual Dynamics with Region Proposal Interaction Networks</a>
     - Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
     - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
