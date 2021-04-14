@@ -474,7 +474,7 @@
     <strong>Model-based RL II: graph neural networks, iLQR (cont.), MBRL with latent dynamic models</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
   slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb76dad3-8216-4e30-8944-ad0901088d69
   notes:
   readings:
     - Qi et al. <a href="https://arxiv.org/pdf/2008.02265.pdf" target="_blank">Learning Long-term Visual Dynamics with Region Proposal Interaction Networks</a>
