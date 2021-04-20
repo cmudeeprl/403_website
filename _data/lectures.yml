@@ -498,8 +498,8 @@
 - date: T 04/20
   lecturer:
   title: >
-    <strong>Curiosity driven exploration</strong>, guest lecture, Deepak Pathak
-  slides:
+    <strong>Exploration using curiosity and episodic memory</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec21_deep_exploration.pdf
   video:
   notes:
   readings:
