@@ -432,16 +432,18 @@
 - date: T 04/06
   lecturer:
   title: >
-    <strong>MCTS with prior knowledge (cont.), Model-based RL</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
-  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
+    <strong>Model-based RL</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9dc0add7-7e07-43b0-b675-ad02011afd0e
   notes:
   readings:
-    - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
+    # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
     - Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
   logistics:
 
 - date: Th 04/08
@@ -456,10 +458,11 @@
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
     - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
     - Qi et al. <a href="https://arxiv.org/pdf/2008.02265.pdf" target="_blank">Learning Long-term Visual Dynamics with Region Proposal Interaction Networks</a>
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
-    - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
-    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
+    # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
+    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
   logistics:
 
 - date: F 04/09
@@ -471,15 +474,16 @@
 - date: T 04/13
   lecturer:
   title: >
-    <strong>Model-based RL II: graph neural networks, iLQR (cont.), MBRL with latent dynamic models</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
-  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
+    <strong>MBRL with latent dynamic models</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb76dad3-8216-4e30-8944-ad0901088d69
   notes:
   readings:
-    - Qi et al. <a href="https://arxiv.org/pdf/2008.02265.pdf" target="_blank">Learning Long-term Visual Dynamics with Region Proposal Interaction Networks</a>
+    - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
     - Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
-    - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
+    - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
+    # - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
     # - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank">Search on the Replay Buffer- Bridging Planning and Reinforcement Learning</a>
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
@@ -505,23 +509,30 @@
   readings:
     - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-    - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a>
+    - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
+    - Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
+    - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
   logistics:
 
 - date: Th 04/22
   lecturer:
   title: >
-    <strong>Exploration using curiosity and episodic memory (cont.) Learning from demonstrations and task rewards, off-policy RL, adversarial imitation learning</strong>
+    <strong>Learning from demonstrations and task rewards, off-policy RL, adversarial imitation learning</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec22_RL+demo.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a82287-9120-49d7-89db-ad1201089b0f
   notes:
   readings:
-    - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
-    - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span> Learning Behaviors by Latent Imagination</a>
-    - Levine et al. <a href="https://arxiv.org/pdf/1504.00702.pdf" target="_blank">End-to-End Training of Deep Visuomotor Policies</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
+    # - Hafner et al. <a href="https://arxiv.org/pdf/1811.04551.pdf" target="_blank">Learning Latent Dynamics for Planning from Pixels</a>
+    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span> Learning Behaviors by Latent Imagination</a>
+    # - Levine et al. <a href="https://arxiv.org/pdf/1504.00702.pdf" target="_blank">End-to-End Training of Deep Visuomotor Policies</a>
     # - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning<span>:</span> Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
     # - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
     # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
+
   logistics:
 
 # - date: F 04/23
@@ -573,10 +584,10 @@
   video:
   notes:
   readings:
-    - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
-    - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
-    - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
-    - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
+    # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
+    # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
+    # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
+    # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
   logistics: 
     
 
