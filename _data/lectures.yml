@@ -584,6 +584,10 @@
   video:
   notes:
   readings:
+    - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+    # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
+#     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
     # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
     # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
     # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
