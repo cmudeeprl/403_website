@@ -512,7 +512,7 @@
   lecturer:
   title: >
     <strong>Exploration using curiosity and episodic memory (cont.) Learning from demonstrations and task rewards, off-policy RL, adversarial imitation learning</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec21_deep_exploration.pdf
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec22_RL+demo.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a82287-9120-49d7-89db-ad1201089b0f
   notes:
   readings:
@@ -569,7 +569,7 @@
   lecturer:
   title: >
     <strong>Learning and Planning</strong>
-  slides: https://docs.google.com/presentation/u/1/d/1-kV_s3aMKLWXBe3r82m5x13uaBW2HdQR6iSIl3Yo5P4/edit#slide=id.p
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
   video:
   notes:
   readings:
