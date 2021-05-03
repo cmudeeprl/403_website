@@ -619,7 +619,25 @@
   #   - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
   logistics:
 
-- date: F 04/30
+- date: Su 05/02
+  lecturer:
+  title: >
+   
+  slides:
+  video:
+  notes:
+  readings:
+  #   - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+  #   - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+  #   - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+  #   - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+  #   # - <reading class="important">Bousmalis et al. <a href="https://arxiv.org/abs/1709.07857" target="_blank">Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping</a></reading>
+  logistics:
+   <span class="event">HW5 out</span>
+   
+
+
+- date: T 05/04
   lecturer:
   title: >
     <strong>Sim2Real transfer</strong>
@@ -645,7 +663,7 @@
 #   readings:
 #   logistics:
 
-- date: T 05/04
+- date: Th 05/06
   lecturer:
   title: >
     <strong>Meta-Learning, learning to learn</strong>
@@ -661,22 +679,23 @@
     - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
     - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics:
+   
 
-- date: Th 05/06
-  lecturer:
-  title: >
-    <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
-  slides:
-  video:
-  notes:
-  readings:
-    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-    - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
-    - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
-    - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
-    - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-  logistics: 
-  # <span class="deadline">HW5 due 05/06 11:59pm</span> 
+# - date: Th 05/06
+#   lecturer:
+#   title: >
+#     <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
+#   slides:
+#   video:
+#   notes:
+#   readings:
+#     - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+#     - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+#     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+#     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+#     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
+#   logistics: 
+#   # <span class="deadline">HW5 due 05/06 11:59pm</span> 
 
 - date: F 05/07
   lecturer:
@@ -688,6 +707,9 @@
   notes:
   readings:
   logistics: 
+
+- date: Su 05/09
+  logistics: <span class="deadline">HW5 due 05/09 11:59pm</span> 
 
 - date: Mo 05/10
   lecturer:
