@@ -657,7 +657,7 @@
     <strong>State representation learning for RL</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec25_inversegraphicsforRL.pdf
   # slides2:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45614624-ace7-4d57-a18b-ad1e01085d0f
   notes:
   readings:
     - He et al. <a href="https://arxiv.org/pdf/1911.05722.pdf" target="_blank">Momentum Contrast for Unsupervised Visual Representation Learning</a>
