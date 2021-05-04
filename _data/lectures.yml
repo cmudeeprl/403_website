@@ -607,17 +607,17 @@
   #   - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
   # logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
 
-- date: Th 04/29
-  lecturer:
-  title: >
-    <strong>Visual Imitation Learning (cont.)</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
-  notes:
-  readings:
-  #   - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-  #   - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
-  logistics:
+# - date: Th 04/29
+#   lecturer:
+#   title: >
+#     <strong>Visual Imitation Learning (cont.)</strong>
+#   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
+#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
+#   notes:
+#   readings:
+#   #   - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+#   #   - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
+#   logistics:
 
 # - date: Su 05/02
 #   lecturer:
@@ -625,12 +625,12 @@
 #     <strong>HW5 out</strong>
 
 
-- date: T 05/04
+- date: Th 04/29
   lecturer:
   title: >
-    <strong>Sim2Real transfer</strong>
+    <strong>Visual Imitation Learning (cont.), Sim2Real transfer</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
   notes:
   readings:
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
@@ -651,39 +651,39 @@
 #   readings:
 #   logistics:
 
-- date: Th 05/06
+- date: T 05/04
   lecturer:
   title: >
-    <strong>Meta-Learning, learning to learn</strong>
-  slides:
-  slides2:
+    <strong>State representation learning for RL</strong>
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec25_inversegraphicsforRL.pdf
+  # slides2:
   video:
   notes:
   readings:
-    - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
-    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
-    - Duan et al. <a href="https://arxiv.org/pdf/1707.03141.pdf" target="_blank">A Simple Neural Attentive Meta-Learner</a>
-    - Finn et al. <a href="https://arxiv.org/abs/1703.03400" target="_blank">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
-    - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
-    - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
+    # - Botvinick et al. <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0" target="_blank">Reinforcement Learning, Fast and Slow</a>
+    # - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL2&#58; Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+    # - Duan et al. <a href="https://arxiv.org/pdf/1707.03141.pdf" target="_blank">A Simple Neural Attentive Meta-Learner</a>
+    # - Finn et al. <a href="https://arxiv.org/abs/1703.03400" target="_blank">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
+    # - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
+    # - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics:
    
 
-# - date: Th 05/06
-#   lecturer:
-#   title: >
-#     <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
-#   slides:
-#   video:
-#   notes:
-#   readings:
-#     - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-#     - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
-#     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
-#     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
-#     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-#   logistics: 
-#   # <span class="deadline">HW5 due 05/06 11:59pm</span> 
+- date: Th 05/06
+  lecturer:
+  title: >
+    <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
+  slides:
+  video:
+  notes:
+  readings:
+    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+    - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+    - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+    - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+    - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
+  logistics: 
+  # <span class="deadline">HW5 due 05/06 11:59pm</span> 
 
 - date: F 05/07
   lecturer:
