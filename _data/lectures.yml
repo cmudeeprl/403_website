@@ -674,7 +674,7 @@
   title: >
     <strong>RL and generalization: A closer look to state representations for generalization in  model free and model based RL</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
   notes:
   readings:
     - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
@@ -690,7 +690,7 @@
   title:
   recitation: >
     <strong>Quiz 3 Review</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec9_quiz3.pdf
   video:
   notes:
   readings:
