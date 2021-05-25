@@ -381,7 +381,7 @@
   recitation: >
     <strong>Quiz 1 Review</strong>
   slides:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc303427-9a8a-44fe-a637-acf70121c04f
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc303427-9a8a-44fe-a637-acf70121c04f
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
